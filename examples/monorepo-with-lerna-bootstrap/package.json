@@ -2,7 +2,7 @@
   "name": "monorepo-with-lerna-bootstrap",
   "private": true,
   "devDependencies": {
-    "lerna": "^6.1.0"
+    "lerna": "^10.0.1"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
